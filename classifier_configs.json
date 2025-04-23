@@ -1,0 +1,168 @@
+{
+    "sample": {
+        "n_samples": "",
+        "text": "",
+        "text_aux": "from side view, from back view",
+        "idx": "",
+        "hflip_idx": "",
+        "stage1_pth": "",
+        "stage2_pth": "",
+        "stage3_pth": "",
+        "dth": ""
+    },
+    "chimpanzee": {
+        "n_samples": "300",
+        "text": "A DSLR photo of a chimpanzee dressed like Napoleon Bonaparte",
+        "text_aux": "from side view, from back view",
+        "idx": "28,285,100,100",
+        "hflip_idx": "0,0,0,1"
+    },
+    "beagle": {
+        "n_samples": "300",
+        "text": "A DSLR photo of a beagle in a detective's outfit.",
+        "text_aux": "from side view, from back view",
+        "idx": "6,270,224,224",
+        "hflip_idx": "0,0,0,1"
+    },
+    "eagle": {
+        "n_samples": "60",
+        "text": "A bald eagle carved out of wood features",
+        "text_aux": "from side view, from back view",
+        "idx": "11,46,28,28",
+        "hflip_idx": "0,1,0,1"
+    },
+    "zombie": {
+        "n_samples": "60",
+        "text": "a zombie bust",
+        "text_aux": "from back view",
+        "idx": "8,50,25,25",
+        "hflip_idx": "0,0,0,1"
+    },
+    "redpanda": {
+        "n_samples": "60",
+        "text": "Wes Anderson style Red Panda, reading a book, super cute, highly detailed and colored",
+        "text_aux": "from side view, from back view",
+        "idx": "6,48,21,21",
+        "hflip_idx": "0,0,0,1"
+    },
+    "kangaroo": {
+        "n_samples": "60",
+        "text": "A kangaroo wearing boxing gloves",
+        "text_aux": "from side view, from back view",
+        "idx": "9,48,32,32",
+        "hflip_idx": "0,0,0,1"
+    },
+    "bear": {
+        "n_samples": "60",
+        "text": "Samurai koala bear",
+        "text_aux": "from side view, from back view",
+        "idx": "17,42,32,32",
+        "hflip_idx": "0,0,0,1"
+    },
+    "squirrel": {
+        "n_samples": "60",
+        "text": "A DSLR photo of a squirrel playing guitar",
+        "text_aux": "from side view",
+        "idx": "1,49,10,10",
+        "hflip_idx": "0,1,0,1"
+    },
+    "man": {
+        "n_samples": "60",
+        "text": "A 3D printed white bust of a man with curly hair",
+        "text_aux": "from side view, from back view",
+        "idx": "15,41,34,34",
+        "hflip_idx": "0,0,0,1"
+    },
+    "camera": {
+        "n_samples": "60",
+        "text": "DSLR Camera, photography, dslr, camera, noobie, box-modeling, maya",
+        "text_aux": "from side view, from back view",
+        "idx": "0,53,38,38",
+        "hflip_idx": "0,0,0,1"
+    },
+    "chibi": {
+        "n_samples": "180",
+        "text": "mecha vampire girl chibi",
+        "text_aux": "from side view, from back view",
+        "idx": "39,170,73,73",
+        "hflip_idx": "0,0,0,1"
+    },
+    "robot": {
+        "n_samples": "180",
+        "text": "robot with pumpkin head",
+        "text_aux": "from back view",
+        "idx": "23,166,107,107",
+        "hflip_idx": "0,0,0,1"
+    },
+    "helmet": {
+        "n_samples": "60",
+        "text": "A DSLR photo of a football helmet.",
+        "text_aux": "from side view, from back view",
+        "idx": "12,49,28,28",
+        "hflip_idx": "0,0,0,1"
+    },
+    "motorcycle": {
+        "n_samples": "60",
+        "text": " A blue motorcycle.",
+        "text_aux": "from back view",
+        "idx": "50,23,23",
+        "hflip_idx": "0,0,1"
+    },
+    "kingfisher": {
+        "n_samples": "60",
+        "text": "a kingfisher bird",
+        "text_aux": "from side view, from back view",
+        "idx": "7,7",
+        "hflip_idx": "0,1"
+
+    },
+    "peacock": {
+        "n_samples": "60",
+        "text": "a peacock on a surfboard",
+        "text_aux": "from side view, from back view",
+        "idx": "56,56,21,21",
+        "hflip_idx": "0,1,0,1"
+    },
+    "turtle": {
+        "n_samples": "60",
+        "text": "A sea turtle",
+        "text_aux": "from side view, from back view",
+        "idx": "2,54,35,35",
+        "hflip_idx": "0,0,0,1"
+    },
+    "bee": {
+        "n_samples": "60",
+        "text": "Robotic bee, high detail",
+        "text_aux": "from side view, from back view",
+        "idx": "19,20,20",
+        "hflip_idx": "0,0,1"
+    },
+    "dragoncat": {
+        "n_samples": "60",
+        "text": "a fantasy painting of a dragoncat",
+        "text_aux": "from side view, from back view",
+        "idx": "19,58,28,28",
+        "hflip_idx": "0,0,0,1"
+    },
+    "teapot": {
+        "n_samples": "60",
+        "text": "a dragon-shaped teapot",
+        "text_aux": "from side view, from back view",
+        "idx": "0,0",
+        "hflip_idx": "0,1"
+    },
+    "airplane": {
+        "n_samples": "60",
+        "text": "An airplane made out of wood",
+        "text_aux": "from side view, from back view",
+        "idx": "14,41,35,35",
+        "hflip_idx": "0,0,0,1"
+    },
+    "groot": {
+        "n_samples": "60",
+        "text": "A portrait of Groot, head, HDR, photorealistic, 8K",
+        "text_aux": "from side view, from back view",
+        "idx": "6,53,27,27",
+        "hflip_idx": "0,0,0,1"
+    } 
+}
